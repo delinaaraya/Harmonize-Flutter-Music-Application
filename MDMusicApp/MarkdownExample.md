@@ -11,7 +11,7 @@ This is a simple project to demonstrate the use of **GitHub Markdown**. Markdown
 - Enables the use of `code` snippets
 - Allows [linking](http://example.com) to web resources
 
-## Code Example
+## Code Snippet Example
 
 ```python
 def hello_world():

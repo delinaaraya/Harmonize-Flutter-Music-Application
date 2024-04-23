@@ -8,7 +8,7 @@ gap in the musical landscape by leveraging modern web technologies.
 ## Features
 - Real-time collaboration tools
 - Music sharing and management
-- User profile customization
+- User profile customization !
 
 For more details on the design and implementation, please refer to the [Design](design.md) and [Implementation](implementation.md) pages.
 
