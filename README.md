@@ -1,16 +1,25 @@
-# flutter_application_1
+# Music Networking Application - Senior Project Portfolio
 
-A new Flutter project.
+## Project Overview
+The project at hand involves the development of a music networking application that emulates the user interface and functionality of a dating app. In this unique endeavor, the goal is to create a digital platform where musicians could connect, discover, and collaborate with fellow artists, fostering creative partnerships within a dynamic and user-friendly environment. Inspired by the dating app style, the project aims to provide musicians with a novel means of finding like-minded individuals, sharing their musical talents, and growing within a supportive musical community.
 
-## Getting Started
+The project will effectively deliver a user-friendly and aesthetically pleasing music networking app that replicates the interface of popular dating apps. Users will be able to create profiles, explore potential music matches, engage in conversations, and initiate collaborations, all while enjoying a seamless and intuitive user experience. This innovative application opens new avenues for musicians to connect, share their artistic endeavors, and build meaningful musical partnerships, contributing to the broader context of the ever-evolving music industry and the digital transformation of artistic collaboration.
 
-This project is a starting point for a Flutter application.
+## Features
+- Real-time collaboration tools
+- Music sharing and management
+- User profile customization
 
-A few resources to get you started if this is your first Flutter project:
+<img src="userProfilePageScreenshot.png" alt="profile image" width="29.8%"><img src="userDiscoveryPageScreenshot.png" alt="profile image" width="30%"><img src="messagingPageScreenshot.png" alt="profile image" width="30.5%">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+For more details on the design and implementation, please refer to the [Design](design.md) and [Implementation](implementation.md) pages.
+
+
+## Quick Links
+- [Design Diagrams](design.md)
+- [Code Snippets](code.md)
+- [Implementation Details](implementation.md)
+- [Running the Project](setup.md)
+- [About the Project](about.md)
